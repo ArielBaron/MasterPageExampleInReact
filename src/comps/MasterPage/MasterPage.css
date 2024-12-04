@@ -1,0 +1,14 @@
+img{
+    width: 500px;
+}
+
+#first-content{
+    float: left;
+    width: 500px;
+}
+footer {
+    position: absolute; 
+    bottom: 0; 
+    width: 100%; /* Full width */
+    height: 50px; 
+}
